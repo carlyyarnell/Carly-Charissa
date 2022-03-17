@@ -1,0 +1,11 @@
+{
+  "name": "Chuck Norris Jokes",
+  "version": "1.0.0",
+  "description": "Funniest jokes ever!",
+  "manifest_version": 3,
+  "author": "Carly and Charissa",
+  "action":{
+    "default_popup": "index.html",
+    "default_title": "Funny Chuck Norris Jokes"
+  }
+}
